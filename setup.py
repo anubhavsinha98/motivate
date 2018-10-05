@@ -9,6 +9,7 @@ setup(
     author='mubaris',
     author_email='mubarishassannk@gmail.com',
     license='MIT',
+    license='HOGWARTS',
     keywords = ['motivation', 'quotes'],
     packages=find_packages(),
     zip_safe=False
